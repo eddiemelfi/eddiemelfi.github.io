@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Edmond Melfi’s Programming Portfolio - About Me</title>
+    </head>
+    <body>
+<img src=“csc106_banner.jpeg”>
+<h1>About Me</h1>
+ 
+I am a graduating senior majoring in journalism with a minor in Film/Media in the <a href=“https://harrington.uri.edu”> University of Rhode Island</a> . I am a staff photographer for the student news organization, <a href=“https://rhodycigar.com”> The Good Five Cent Cigar </a>.
+ 
+    </body>
+</html>
